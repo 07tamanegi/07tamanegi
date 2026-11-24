@@ -12,4 +12,4 @@ I'm high school student passionate about programming, electronics, ham radio.
 
 **Tools**
 
-[![My Skills](https://skillicons.dev/icons?i=discord,docker,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,figma)](https://skillicons.dev)
