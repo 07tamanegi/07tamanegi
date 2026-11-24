@@ -1,8 +1,15 @@
 # Hi there :wave:
-できること
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,py,swift,html,css,discordjs,docker)](https://skillicons.dev)
+I'm high school student passionate about programming, electronics, ham radio.
 
-やってること
+**Languages**
 
-電子工作、プログラミング、アマチュア無線など
+[![My Skills](https://skillicons.dev/icons?i=cpp,py,swift,html,css)](https://skillicons.dev)
+
+**Frameworks**
+
+[![My Skills](https://skillicons.dev/icons?i=unity)](https://skillicons.dev)
+
+**Tools**
+
+[![My Skills](https://skillicons.dev/icons?i=discord,docker,figma)](https://skillicons.dev)
