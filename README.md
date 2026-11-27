@@ -4,7 +4,7 @@ I'm high school student passionate about programming, electronics, ham radio.
 
 **Languages**
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,swift,html,css,js,lua,discordjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,swift,html,css,js,discordjs,lua)](https://skillicons.dev)
 
 **Tools**
 
